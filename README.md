@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React , java**
 
-- 📫 How to reach me **Abderrahmane Belahrech**
+- 📫 How to reach me **Abdobelahrech13@gmail.com**
 
 - ⚡ Fun fact **I'am funny**
 
