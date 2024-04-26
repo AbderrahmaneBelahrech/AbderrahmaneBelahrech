@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif" alt="full-stack-development">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Abderrahmane Belahrech</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Morocco</h3>
