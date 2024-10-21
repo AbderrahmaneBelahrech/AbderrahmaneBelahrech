@@ -1,33 +1,42 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif" alt="full-stack-development">
-</p>
+![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
 <h1 align="center">Hi 👋, I'm Abderrahmane Belahrech</h1>
-<h3 align="center">Passionate Full Stack Developer from Morocco</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abderrahmanebelahrech&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abderrahmanebelahrech&label=Profile%20views&color=0e75b6&style=flat" alt="abderrahmanebelahrech" /> 
+</p>
+
+<p align="left"> 
   <a href="https://twitter.com/abderrahmanebelahrech" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/abderrahmanebelahrech?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+    <img src="https://img.shields.io/twitter/follow/abderrahmanebelahrech?logo=twitter&style=for-the-badge" alt="abderrahmanebelahrech" />
+  </a> 
+</p>
+
+- 🌱 I’m currently learning **React.js, React Native, Java JEE**
+- 🤝 I’m looking for help with **OpenSource Projects**
+- 💬 Ask me about **React, Java**
+- 📫 How to reach me: **Abdobelahrech13@gmail.com**
+- ⚡ Fun fact: **I'm funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/abderrahmanebelahrech" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abderrahmanebelahrech" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/abderrahmane-belahrech-60b097235/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/abdo_belahrech/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
----
-
-### 👨‍💻 About Me:
-- 💻 Software Engineer
-- 🌱 Currently learning **React.js, React Native, Java JEE**
-- 👯 Looking to collaborate on **OpenSource Projects**
-- 📫 Reach me at **Abdobelahrech13@gmail.com**
-- ⚡ Fun fact: **I'm funny!**
-
----
-
-### 🚀 Languages and Tools:
-<p align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
+  </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
@@ -37,52 +46,29 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <!-- Add more icons similarly as needed -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <!-- Add more icons as needed -->
 </p>
 
----
-
-### 📊 My Github Stats:
-<p align="center">
-  <a href="https://github.com/AbderrahmaneBelahrech/github-readme-streak-stats">
-    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbderrahmaneBelahrech&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AbderrahmaneBelahrech/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbderrahmaneBelahrech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/AbderrahmaneBelahrech/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneBelahrech&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
-
-> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
----
-
-### 🤝 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/abderrahmane-belahrech-60b097235/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009320569584">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/abdo_belahrech/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-### ❤ Views and Followers:
 <p>
-  <a href="https://github.com/AbderrahmaneBelahrech/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AbderrahmaneBelahrech" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/AbderrahmaneBelahrech?tab=followers">
-    <img src="https://img.shields.io/github/followers/AbderrahmaneBelahrech?label=Followers&style=social" alt="GitHub Badge"/>
-  </a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmanebelahrech&show_icons=true&locale=en&layout=compact" alt="abderrahmanebelahrech" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abderrahmanebelahrech&show_icons=true&locale=en" alt="abderrahmanebelahrech" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmanebelahrech&" alt="abderrahmanebelahrech" />
 </p>
