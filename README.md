@@ -6,7 +6,8 @@
  <h1 align="center">Hi 👋 there</h1>
 
 | I'm **Belahrech Abderrahmane**, a final-year engineering student from Morocco,passionate about [Java EE](https://www.oracle.com/java/technologies/java-ee-glance.html), [Spring](https://spring.io/), and the realms of [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence). I'm currently expanding my skills by studying [Flutter](https://flutter.dev/), [Microservices](https://microservices.io/), and [Angular](https://angular.io/). 
-, and I love diving into web and mobile development. I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact! | <img width="400px" align="right" src="senior-dev.jpg" alt=""/> |
+I believe in the transformative power of technology to tackle complex challenges and make a positive impact. Let’s connect and work together on innovative projects!
+![My Profile Image](senior-dev.jpg)
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 
 <h3 align="left">Connect with me:</h3>
