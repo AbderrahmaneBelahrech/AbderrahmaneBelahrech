@@ -7,7 +7,7 @@
 
 # About Me
 
-I'm **Bekahrech Abderrahmane**, a final-year engineering student from Morocco, passionate about [Java EE](https://www.oracle.com/java/technologies/java-ee-glance.html), [Spring](https://spring.io/), and the realms of [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence). I'm currently expanding my skills by studying [Flutter](https://flutter.dev/), [Microservices](https://microservices.io/), and [Angular](https://angular.io/). 
+I'm **Belahrech Abderrahmane**, a final-year engineering student from Morocco, passionate about [Java EE](https://www.oracle.com/java/technologies/java-ee-glance.html), [Spring](https://spring.io/), and the realms of [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence). I'm currently expanding my skills by studying [Flutter](https://flutter.dev/), [Microservices](https://microservices.io/), and [Angular](https://angular.io/). 
 
 I believe in the transformative power of technology to tackle complex challenges and make a positive impact. Let’s connect and work together on innovative projects!
 
